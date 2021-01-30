@@ -1,10 +1,10 @@
 ---
 sidebarDepth: 2
 ---
-# Sign
+# Signing
 
 <p align="center">
-<img height="480" src="~@public/images/sync2/sign.png" >
+<img height="480" src="~@public/images/sync2/signing.png" >
 </p>
 
 ## Content type

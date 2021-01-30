@@ -21,7 +21,7 @@ If wallet belong to testnet or private network,you can see the network below the
 4. Enter your password to authorize the generation
 
 :::tip Note
-12/24 mnemonic words
+**12/24 mnemonic words**
 - Mobile platform: Long press the **Generate** 
 - Others: Right click the **Generate**
 :::
@@ -80,9 +80,7 @@ In Sync 2 **ONLY** allows user to create maximum **10** addresses to minimize th
 <img height="480" src="~@public/images/sync2/address.png" >
 </p>
 
-### Assets overview
-When you first launch Sync, you will only see VET and VTHO assets by default. You can check other asset balance by enabling the tokens in the token list
-
+### Add assets
 1. Click middle right <img src="~@public/images/sync2/control_point_duplicate.svg" align=center />
 2. Choose your token from the token list
 3. Click switcher to enable

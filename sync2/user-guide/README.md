@@ -5,8 +5,7 @@ sidebarDepth: 2
 # Setup
 
 <p align="center">
-<img width="128" src="~@public/images/sync2/logoSync.svg" alt="
-logo">
+<img width="256" src="~@public/images/sync2/logoSync.svg"">
 </p>
 <h1 align="center">VeChain Sync2</h1>
 

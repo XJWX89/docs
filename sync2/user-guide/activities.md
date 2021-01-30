@@ -15,7 +15,7 @@ sidebarDepth: 2
 - <img src="~@public/images/sync2/query_builder.svg" align=center /> **Confirming** : Transaction is packaged into a block and can be "View" on the blockchain. 
 
 :::tip Note
-- Unstable connection may cause the transaction sending to txpool failed. Sync2 will automatically retry sending the transaction to txpool until it reaches the transaction expiration. Once it reach the expiration , it will state the transaction to expired.
+- Unstable connection to transaction pool may cause the transactions to fail. Sync2 will automatically retry the transaction request until it expires. Once expired, Sync2 will update the status to "expired".
 
 - Transaction required 12 blocks to be confirmed.
 :::
