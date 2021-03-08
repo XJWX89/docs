@@ -16,8 +16,8 @@ heroText: Welcome to VeChain Docs
      <a :href="$withBase('/connex')">Get Started</a>
   </div>
   <div class="feature">
-    <h2>Sync</h2>
-    <p>Designed to provide the superior user experiences for VeChain Apps, and serves as the dApp environment to provide unlimited potential for developers and users.</p>
+    <h2>Sync2</h2>
+    <p> Designed to work with all mainstream web browsers (e.g., Chrome, Safari, MS Edge, Firefox, etc), desktop and mobile device.</p>
     <a :href="$withBase('/sync/download-and-install')">Download Now</a>
   </div>
 </div>

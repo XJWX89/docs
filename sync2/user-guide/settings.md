@@ -20,7 +20,7 @@ sidebarDepth: 2
 
 ## Token List
 1. Click **Tokens**
-2. Choose your token from the token list
+2. Choose the token from the token list
 3. Toggle on to enable 
 
 :::tip 📖 Note

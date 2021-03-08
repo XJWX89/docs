@@ -28,9 +28,9 @@ Standard interface to connect VeChain apps with VeChain blockchain and user.
 
 - Connex API: [View](https://docs.vechain.org/connex/api.html)
 
-### Sync
+### Sync2
  
-Designed to provide the superior user experiences for VeChain Apps, and serves as the dApp environment to provide unlimited potential for developers and users.
+Designed to work with all mainstream web browsers (e.g., Chrome, Safari, MS Edge, Firefox, etc), desktop and mobile device.
 
-- Download : [Desktop](https://docs.vechain.org/sync/download-and-install.html)
-- User Guide : [View](https://docs.vechain.org/sync/user-guide/)
+- Download : [Desktop](https://docs.vechain.org/sync2/get-started.html)
+- User Guide : [View](https://docs.vechain.org/sync2/user-guide/)

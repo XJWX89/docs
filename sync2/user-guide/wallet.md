@@ -82,7 +82,7 @@ In Sync 2 **ONLY** allows user to create maximum **10** addresses to minimize th
 
 ### Add assets
 1. Click middle right <img src="~@public/images/sync2/control_point_duplicate.svg" align=center />
-2. Choose your token from the token list
+2. Choose the token from the token list
 3. Toggle on to enable 
 
 :::tip Note
